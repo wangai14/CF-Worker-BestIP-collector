@@ -1,6 +1,5 @@
 # Cloudflare 优选IP 收集器
 由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
-<div align="center">
 
 <p align="center">
   <a href="https://www.youtube.com/@%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90" target="_blank">
